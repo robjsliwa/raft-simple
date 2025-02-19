@@ -1,7 +1,7 @@
 # Simple Raft Implementation in Go
 
 This repository contains a simple Raft consensus implementation in Go, covered in the article:
-Learning Raft Consensus Algorithm (Placeholder: Replace with actual link)
+[Learning Raft Consensus Algorithm](https://medium.com/@robjsliwa_71070/learning-raft-consensus-algorithm-fd960f6c3605)
 
 # 📖 About
 
